@@ -1,4 +1,4 @@
-import Image from "next/image";
+
 
 export default function Hero() {
     return (
@@ -13,7 +13,7 @@ export default function Hero() {
                                 <a href="#services" class="btn-primary scrollto">Start Journey</a>
                                 <a href="https://www.youtube.com/watch?v=Y7f98aduVJ8" class="glightbox btn-video d-flex align-items-center">
                                     <i class="bi bi-play-fill"></i>
-                                    <span>Watch Demo</span>
+                                    <span>Explore Our Capabilities</span>
                                 </a>
                             </div>
                         </div>

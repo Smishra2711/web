@@ -3,9 +3,11 @@ import "./globals.css";
 import Header from "./components/header";
 import Script from "next/script";
 import Footer from "./components/footer";
+import { GoogleAnalytics } from '@next/third-parties/google';
 
 export const metadata = {
-  title: "W Mishra Group",
+   default: 'W Mishra Group',
+    template: '%s | W Mishra',
   description: "Next.js rebuild of the W Mishra Group site",
 };
 
@@ -33,6 +35,11 @@ export default function RootLayout({ children }) {
           rel="stylesheet"
           href="https://bootstrapmade.com/content/demo/Devin/assets/css/main.css"
         />
+
+        <meta property="og:locale" content="en_US" />
+        <meta property="og:type" content="website" />
+        <meta property="og:url" content="https://www.wmishra.com/" />
+        <meta property="og:site_name" content="W Mishra Group" />
       </head>
       <body className="index-page">
         <Header />
@@ -57,6 +64,7 @@ export default function RootLayout({ children }) {
           strategy="afterInteractive"
         />
       </body>
+      <GoogleAnalytics gaId="G-7CVWJE7NY7" />
     </html>
   );
 }

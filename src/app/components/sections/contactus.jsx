@@ -5,7 +5,7 @@ export default function ContactUsSection() {
         <section id="contact" class="contact section">
             <div class="container section-title">
                 <h2>Contact</h2>
-                <p>Necessitatibus eius consequatur ex aliquid fuga eum quidem sint consectetur velit</p>
+                <p>We are just a Ping away!</p>
             </div>
             <div class="container">
                 <div class="row align-items-stretch">
