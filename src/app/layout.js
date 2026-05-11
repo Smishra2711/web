@@ -36,7 +36,7 @@ export default function RootLayout({ children }) {
       </head>
       <body className="index-page">
         <Header />
-        <main className="main">{children}</main>
+        <div>{children}</div>
         <Footer />
         <a
           href="#"
