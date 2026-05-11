@@ -15,7 +15,7 @@ export default function RootLayout({ children }) {
       <head>
         <meta content="width=device-width, initial-scale=1.0" name="viewport" />
         <link href="https://fonts.googleapis.com" rel="preconnect" />
-        <link href="https://fonts.gstatic.com" rel="preconnect" crossorigin></link>
+        <link href="https://fonts.gstatic.com" rel="preconnect" />
         <link
           rel="stylesheet"
           href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.css"
