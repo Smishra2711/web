@@ -7,9 +7,9 @@ export default function Footer() {
                     <div class="col-lg-4">
                         <div class="footer-content">
                             <a href="index.html" class="logo d-flex align-items-center mb-4">
-                                <span class="sitename">Devin</span>
+                                <span class="sitename">W Mishra Digital</span>
                             </a>
-                            <p class="mb-4">Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae. Donec velit neque auctor sit amet aliquam vel ullamcorper sit amet ligula.</p>
+                            <p class="mb-4">IT Services & Consulting Company Headquaters in Mumbai, India. A leading provider of innovative technology solutions.</p>
 
                             <div class="newsletter-form">
                                 <h5>Stay Updated</h5>
@@ -62,7 +62,7 @@ export default function Footer() {
                                     <i class="bi bi-geo-alt"></i>
                                 </div>
                                 <div class="contact-info">
-                                    <p>2847 Maple Avenue<br />Los Angeles, CA 90210<br />United States</p>
+                                    <p>Empire Centrum<br />Ambernath MIDC, Mumbai 421503<br />India</p>
                                 </div>
                             </div>
 
@@ -71,7 +71,7 @@ export default function Footer() {
                                     <i class="bi bi-telephone"></i>
                                 </div>
                                 <div class="contact-info">
-                                    <p>+1 (555) 987-6543</p>
+                                    <p>+91 98765 43210</p>
                                 </div>
                             </div>
 
@@ -80,7 +80,7 @@ export default function Footer() {
                                     <i class="bi bi-envelope"></i>
                                 </div>
                                 <div class="contact-info">
-                                    <p><a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="791a16170d181a0d391c01181409151c571a1614">[email&#160;protected]</a></p>
+                                    <p><a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="791a16170d181a0d391c01181409151c571a1614">info@wmishra.com</a></p>
                                 </div>
                             </div>
 
@@ -102,7 +102,7 @@ export default function Footer() {
                     <div class="row align-items-center">
                         <div class="col-lg-6">
                             <div class="copyright">
-                                <p>© <span>Copyright</span> <strong class="px-1 sitename">MyWebsite</strong> <span>All Rights Reserved</span></p>
+                                <p>© <span>Copyright</span> <strong class="px-1 sitename">W Mishra Digital</strong> <span>All Rights Reserved</span></p>
                             </div>
                         </div>
                         <div class="col-lg-6">
