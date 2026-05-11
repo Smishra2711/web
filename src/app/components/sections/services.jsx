@@ -3,23 +3,23 @@ export default function ServicesSection() {
     const services = [
         {
             icon: "bi bi-palette",
-            title: "Creative Design",
-            description: "Description for Creative Design"
+            title: "Custom Software Engineering",
+            description: "Develop high-performance, secure, and scalable applications tailored to your unique business logic. From cloud-native portals to complex CRM integrations, we build the backbone of your digital infrastructure"
         },
         {
             icon: "bi bi-code-slash",
-            title: "Web Development",
-            description: "Description for Web Development"
+            title: "Strategic IT Consulting",
+            description: "Leverage our 10 years of cross-border experience to navigate digital transformation. We provide roadmaps for infrastructure optimization, legacy system modernization, and tech-stack selection."
         },
         {
             icon: "bi bi-phone",
-            title: "Mobile Apps",
-            description: "Description for Mobile Apps"
+            title: "Managed Cloud & Data Solutions",
+            description: "Beyond basic hosting, we provide comprehensive database management and cloud migration services ensuring 99.9% uptime and data integrity for enterprise-level workloads"
         },
         {
             icon: "bi bi-bar-chart",
-            title: "SEO Optimization",
-            description: "Description for SEO Optimization"
+            title: "Full-Cycle Mobile & Desktop Ecosystems",
+            description: "Seamlessly integrated applications across Android and Windows environments, designed with sophisticated UI/UX to maximize user productivity and engagement."
         },
         {
             icon: "bi bi-shield-check",

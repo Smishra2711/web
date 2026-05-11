@@ -8,7 +8,7 @@ export default function Hero() {
                     <div class="col-lg-6">
                         <div class="hero-content">
                             <h1>Transform Your <span>Digital Future</span></h1>
-                            <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium totam rem aperiam.</p>
+                            <p>With over a decade of operational excellence, W Mishra Group bridges the gap between ambitious business goals and robust technical execution. We don't just build software; we engineer growth through reliability and innovation..</p>
                             <div class="hero-actions justify-content-center justify-content-lg-start">
                                 <a href="#services" class="btn-primary scrollto">Start Journey</a>
                                 <a href="https://www.youtube.com/watch?v=Y7f98aduVJ8" class="glightbox btn-video d-flex align-items-center">
