@@ -13,8 +13,8 @@ export default function AboutSection() {
                     <div class="col-lg-6">
                         <div class="content">
                             <h2>Crafting Excellence Through Innovation and Dedication</h2>
-                            <p class="lead">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-                            <p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
+                            <p class="lead">With a decade of operational excellence, W Mishra Group operates at the intersection of innovation and reliability.</p>
+                            <p>Founded in 2015, we have evolved from a specialized development house into a comprehensive IT consultancy. Our leadership team brings cross-border expertise from major tech hubs, ensuring that every solution we deploy is built for international standards and future-proofed scalability.</p>
 
                             <div class="stats-row">
                                 <div class="stat-item">
@@ -32,7 +32,7 @@ export default function AboutSection() {
                             </div>
 
                             <div class="cta-wrapper">
-                                <a href="#" class="btn-cta">
+                                <a href="/blog" class="btn-cta">
                                     <span>Discover Our Story</span>
                                     <i class="bi bi-arrow-right"></i>
                                 </a>
