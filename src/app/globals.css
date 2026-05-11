@@ -3,3 +3,13 @@
 /* @import "./assets/bootstrap.icons.css"; */
 
 @import "./assets/glightbox.min.css";
+
+#header.header {
+  background-color: transparent;
+  transition: background-color 0.3s ease, box-shadow 0.3s ease;
+}
+
+#header.header.header-scrolled {
+  background-color: rgba(255, 255, 255, 0.98);
+  box-shadow: 0 2px 15px rgba(0, 0, 0, 0.08);
+}
