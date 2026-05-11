@@ -1,0 +1,29 @@
+{
+    "appName": "W Mishra",
+    "version": "1.0.0",
+    "apiBaseUrl": "https://wmishra.com",
+    "contactEmail": "info@wmishra.com",
+    "contactPhone": "+1 (555) 123-4567",
+    "addressLine1": "Empire Industrial Centrum",
+    "addressLine2": "Ambernath MIDC, Mumbai 421503",
+    "pincode": "421503",
+    "country": "India",
+    "companyName": "W Mishra Digital",
+    "metaKeywords": [
+        "Enterprise Software Development",
+        "Next.js Development Company",
+        "IT Consulting India",
+        "Cloud Infrastructure Solutions",
+        "Digital Transformation Services",
+        "Custom SaaS Development",
+        "Data Security Consulting",
+        "Corporate Web Solutions Mumbai",
+        "Managed IT Services",
+        "Full-Stack Development Agency"
+    ],
+    "metaDescription": [
+        "W Mishra Digital provides enterprise-grade IT services and strategic consulting since 2015. Specializing in Next.js web applications, mobile development, secure cloud architecture, and data-driven marketing for global businesses.",
+        "Elevate your business with W Mishra Digital’s expert IT consulting. From custom software engineering to cloud security, we deliver scalable solutions designed for growth and performance."
+    ],
+    "gtagId":"G-7CVWJE7NY7"
+}
