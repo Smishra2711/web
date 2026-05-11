@@ -1,14 +1,14 @@
-import { Geist, Geist_Mono } from "next/font/google";
 import "./globals.css";
 import Header from "./components/header";
 import Script from "next/script";
 import Footer from "./components/footer";
 import { GoogleAnalytics } from '@next/third-parties/google';
+import * as Config from "./config";
 
 export const metadata = {
    default: 'W Mishra Group',
     template: '%s | W Mishra',
-  description: "Next.js rebuild of the W Mishra Group site",
+  description: Config.default.metaDescription[0],
 };
 
 export default function RootLayout({ children }) {
@@ -16,6 +16,13 @@ export default function RootLayout({ children }) {
     <html lang="en">
       <head>
         <meta content="width=device-width, initial-scale=1.0" name="viewport" />
+        <meta property="og:locale" content="en_US" />
+        <meta property="og:type" content="website" />
+        <meta property="og:url" content="https://www.wmishra.com/" />
+        <meta property="og:site_name" content="W Mishra Group" />
+        <meta name="keywords" content={Config.default.metaKeywords.join(", ")} />
+        <meta name="robots" content="noindex, nofollow"/>
+
         <link href="https://fonts.googleapis.com" rel="preconnect" />
         <link href="https://fonts.gstatic.com" rel="preconnect" />
         <link
@@ -35,11 +42,6 @@ export default function RootLayout({ children }) {
           rel="stylesheet"
           href="https://bootstrapmade.com/content/demo/Devin/assets/css/main.css"
         />
-
-        <meta property="og:locale" content="en_US" />
-        <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://www.wmishra.com/" />
-        <meta property="og:site_name" content="W Mishra Group" />
       </head>
       <body className="index-page">
         <Header />
